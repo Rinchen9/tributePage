@@ -1,0 +1,72 @@
+.black-bg {
+  background-color: black;
+}
+
+.maroon-box {
+  background-color: rgb(128,0,0);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.white-text {
+  color: white;
+}
+
+.cinzel-font {
+  font-family: Cinzel;
+  font-size: 20px;
+}
+
+.poiret-font {
+  font-family: 'Poiret One';
+  font-size: 16px;
+}
+
+.shadows-into-light {
+  font-family: 'shadows into light';
+  font-size: 16px;
+  letter-spacing: 3px;
+}
+
+.kaushan-script {
+  font-family: 'kaushan script';
+}
+
+ .image {
+  display: block;
+  margin: auto;
+  width: 100%;
+  padding-top: 20px;
+} 
+
+.inner-box {
+  width: 80%;
+  margin: auto;
+}
+
+.letter-spacing-3 {
+  letter-spacing: 3px;
+}
+
+.picture-description {
+  background-color: rgb(247, 257, 247);
+  margin-bottom: 50px;
+}
+
+.padded-p-30-up {
+  padding-top: 30px;
+}
+
+.padded-p-30-b {
+  padding-bottom: 30px;
+}
+
+.padded-p-10-b {
+  padding-bottom: 10px;
+}
+
+.light-gray {
+  color: #C0BFBF;
+}
+
+
